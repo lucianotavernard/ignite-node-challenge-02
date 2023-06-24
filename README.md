@@ -22,7 +22,7 @@ This project was developed using the following technologies:
 
 - [Node.js](https://nodejs.org/en)
 - [Fastify](https://www.fastify.io)
-- [typescript](https://www.typescriptlang.org/)
+- [Typescript](https://www.typescriptlang.org/)
 - [VS Code][vscode] and [EditorConfig][vceditconfig]
 
 ## :memo: License
