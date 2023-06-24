@@ -12,7 +12,7 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/lucianotavernard/ignite-node-daily-diet.svg">
 </p>
 
-## :computer: Projeto
+## :computer: Project
 
 Module Challenge: Node.js APIs RESTfull
 
