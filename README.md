@@ -16,7 +16,7 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/lucianotavernard/ignite-node-challenge-02.svg">
 </p>
 
-## :computer: Projeto
+## :computer: Project
 
 This challenge develops a REST API for daily diet control.
 
@@ -26,7 +26,7 @@ This project was developed using the following technologies:
 
 - [Node.js](https://nodejs.org/en)
 - [Fastify](https://www.fastify.io)
-- [typescript](https://www.typescriptlang.org/)
+- [Typescript](https://www.typescriptlang.org/)
 - [VS Code][vscode] and [EditorConfig][vceditconfig]
 
 ## :memo: License
