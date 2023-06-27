@@ -1,20 +1,24 @@
+<h1 align="center">
+  <img alt="Ignite" src=".github/rocketseat-ignite.png" width="200px" />
+</h1>
+
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lucianotavernard/ignite-node-daily-diet.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lucianotavernard/ignite-node-challenge-02.svg">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lucianotavernard/ignite-node-daily-diet.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lucianotavernard/ignite-node-challenge-02.svg">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lucianotavernard/ignite-node-daily-diet.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lucianotavernard/ignite-node-challenge-02.svg">
 
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lucianotavernard/ignite-node-daily-diet.svg">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lucianotavernard/ignite-node-challenge-02.svg">
 
-  <img alt="Repository issues" src="https://img.shields.io/github/issues/lucianotavernard/ignite-node-daily-diet.svg">
+  <img alt="Repository issues" src="https://img.shields.io/github/issues/lucianotavernard/ignite-node-challenge-02.svg">
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/lucianotavernard/ignite-node-daily-diet.svg">
+  <img alt="GitHub" src="https://img.shields.io/github/license/lucianotavernard/ignite-node-challenge-02.svg">
 </p>
 
 ## :computer: Projeto
 
-Module Challenge: Node.js APIs RESTfull
+This challenge develops a REST API for daily diet control.
 
 ## :rocket: Technologies
 
@@ -27,7 +31,7 @@ This project was developed using the following technologies:
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/lucianotavernard/ignite-node-daily-diet/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/lucianotavernard/ignite-node-challenge-02/blob/master/LICENSE) for more information.
 
 ---
 
